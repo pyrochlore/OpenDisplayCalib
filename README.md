@@ -56,6 +56,7 @@ Tested compilers
 -------
 - Linux
 >  QT 4.5 / Boost 1.35 / GCC 4.4.1 on OpenSUSE 11.2 64 bits
+>  QT 4.8 / Boost 1.35 / GCC 4.6.2 on OpenSUSE 12.1 64 bits
 
 - Windows
 > QT 4.5 / Boost 1.35 / MinGW 1.5.4 on Windows XP 32 bits
