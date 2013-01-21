@@ -66,6 +66,8 @@ public class HealerMainWindow extends JFrame
         // ///button
         UIManager.put("Button.background", JHealerColors.BACKGROUNG_COLOR);
         UIManager.put("Button.foreground", JHealerColors.TEXT_COLOR);
+        UIManager.put("FormattedTextField.background", JHealerColors.BACKGROUNG_COLOR);
+        UIManager.put("FormattedTextField.foreground", JHealerColors.TEXT_COLOR);
         UIManager.put("Button.shadow", JHealerColors.DISABLE_TEXT_COLOR);
         UIManager.put("Button.disabledText", JHealerColors.DISABLE_TEXT_COLOR);
         UIManager.put("Button.border", new LineBorder(Color.black, 2));
